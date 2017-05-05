@@ -1,0 +1,7 @@
+Cobol kelimesinin menasi (COmmon  Business Oriented Languauge)dir.1959 cu ilde ticaret ve biznes idareciliyi meqsedi ile yaradilmiwdir.
+Cobol programlara 4 yere bolunur 
+1)IDENDIFICATION DIVISION - Programcinin adi ,programin adi,yeri,guvenlik ve.s.ol.bolumdur
+2)ENVIRONMENT DIVISION - Programin iwlemesi ucun zerurui olan Yuklemelerin oldugu bolumdur.
+3)DATA VISION - Programin istifade etdiyi metn,qeydler ve deyiwikliklerin oldugu bolumdur
+4)PROCEDURE DIVISION - Programin movcud problemin helli esnasinda lazim olan skriptlerin yazildigi bolumdur
+COBOL program dili daha aydin anlasilabilen wekilde olduguna gore hetta programci olmayanlarin da istifadesi ucun yararlidir

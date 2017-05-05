@@ -1,0 +1,9 @@
+ASP.NET
+ACTIVE SERVER PAGES in qisaldilmiwi olan ASP Dilimize aktiv teqdimetme sehifeleri menasina gelir.ASP Windows iwletme sistemi uzerinde 
+istifade edilen bir program dilidir.Server terefinden iwledilerek neticleri HTML olaraq brouzerler (internet exploer,google chrome,opera ve s .)terefinden 
+gosterilir.ASP ile kodlanan saytlara dinamik web saytlar da deyilir.
+web sehifelerde  HTML XHTML kodlariyla yaradilan sehifelerstatik sehifelerdir ve istifadeci ile elaqe yarada bilmir
+.bele olan halda 
+ASP,PHP,ASP.NET kimi program dilleri komeye catirve istifadeci ile elaqe yaranir hemcinin hesab yaradila bilir.
+
+Net Windows terefinden yaradilan ,ferqli program dillerinin birlikde iwleye bileceyi bir sahedir.

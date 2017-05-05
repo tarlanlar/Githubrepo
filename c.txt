@@ -1,0 +1,6 @@
+C Program dili 1970 ci illerin evvellerinde Ken Thompson ve Denis Ritchie terefinden UNIX idare sistemi ucun mukemmellewdirilmiw bir program dilidir.
+B program dilinden torenmiw, C adi verilmiwdir. 
+Gunumuzde ayri ayri ollkelerde yasayan bir cox programci  mehz bu dil vasitesi ile biri biri ilie elaqe saxlaya bilirler.
+C programlama dilinin diger bir ustunluyu de ondan ibaretdir ki ,gunumuzun en papulyar dillerinden olan c#,c++,javascript,PHP,ve.s diller
+C Programlama dilinden behrelenmiwdir ve bu dillerde iwlemek ucun ilk once C programlama dilinin oyrenilmesi meqsede uygundur.
+

@@ -1,0 +1,54 @@
+Assembly nedir ?
+Komputerde istifade olunan butun diller ilk once komputerin RAM-NA yuklenir daha sonra ise RAM programlama dilini ikili saylaral yeni 0 ve 1 saylari
+il kodlasdirir.
+Assembly Assembler kelimesinden goturulub ,komputerin ikili saylarla kodlasdirilmis dilini daha anlasila bilen bir dile tercume etmek 
+ve komputerde emeliyyatlar kecirmek ucun istifade olunan bir dildir.asagi seviyyeli bir dil olub ,C,C++,Pascal,C# kimi yuksek seviyyeli programlama 
+dillerine gore bir az daha cetin basa dushulendir.Lakin istifade sureti daha ustundur.
+Assembly dili ile program yazarken istifadecinin istifade etdiyi komputerin ozelliklerini bilmesi vacibdir.Chunki Assembly nin istifadesinde komputerin 
+yaddashi ve  Ram ile bir bawa emeliyyat heyata kecirmek ve deyisiklikler etmek mumkundur.
+
+USTUNLUKLERI 
+
+Emeliyyatin gucunu en yaxwi wekilde ortaya qoya bilecek bir dildir 
+Cox az yer tutur,Viruslarin yaziliminda istifade edilir 
+yazilan programlar daha suretli iwleyir,suret teleb eden kritik emeliyyatlarda istifade edilir.
+Herhansi bir programlama dili altinda,o dilin kodlari arasinda istifade oluna biler.
+Yaxwi oyrenilse diger dillerde qarwilawacaq her hansi bir problemlerin Assambly ile sade helli yollarini tapmaq mumkundur.
+
+Cetinlikleri
+
+Assembly dilinde program yazmaq ucun komputerin mikroemeliyyat dilini bilinmesi vacibdir,
+Assembly dili mikroemeliyyat tipine gore deyiwir.bir mikroemeliyyat dili ucun yazilan Assembly dili basqa bir mikroemeliyyat tipinde iwlemeye biler.
+Assembly dilinde program yazmaq diger yuksek seviyyeli dillere gore daha cetin ve zaman alicidir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==
